@@ -1,6 +1,6 @@
 # Demand-Forecasting-and-Inventory-Optimization.
 # Overview
-## **Tittle**  Demand Forecasting and Inventory Optimization
+## **Tittle:**  Demand Forecasting and Inventory Optimization
 **Overview**: Demand Forecasting means estimating future customer demand for a product or service based on historical data and relevant factors.Inventory Optimization is the strategic management of inventory levels to ensure that the right amount of goods is available at the right time to meet customer demand while minimizing costs.We  used an  appropriate forecasting model, SARIMA,for demand forecasting.Then, we used the demand forecasts to optimize inventory levels by implementing strategies like reorder points, safety stock, and economic order quantity (EOQ) calculations.
 
 **Aim**: Develop a model that  aims to strike a balance between having sufficient stock to meet demand without carrying excess inventory that ties up capital and storage space. Effective inventory optimization helps businesses reduce carrying costs, improve cash flow, and enhance customer satisfaction.
